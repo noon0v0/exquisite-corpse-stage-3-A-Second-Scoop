@@ -43,9 +43,9 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.*
 
 ### 🟩 Stage 3
-- Name/Alias:
-- Github account:
-- Published webpage for stage 3:
+- Name/Alias: Ruiting Zhuang
+- Github account: https://github.com/noon0v0
+- Published webpage for stage 3: https://noon0v0.github.io/exquisite-corpse-stage-3-A-Second-Scoop/
 
 *... comments to be added here*
 
